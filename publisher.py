@@ -20,7 +20,7 @@ app = faust.App(
 )
 
 orders_count = 0
-users = ["gordon", "bill", "brita", "tim", "john", "nikki", "thomas", "xiaolin", "jared", "satesh"]
+users = ["willy", "roger", "brad", "twila", "natalie", "roger", "marissa", "meghan", "blair", "chester"]
 countries = ["france", "germany", "belgium", "italy", "america"]
 
 
